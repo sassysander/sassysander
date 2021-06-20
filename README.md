@@ -2,7 +2,7 @@
 - 👀 I’m interested in fiddling with stuff
 - 🌱 I’m currently interested in 3D printing
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 Ping me at gitbub@sassiness.nl
+- 📫 Ping me at github@sassiness.nl
 
 <!---
 sassysander/sassysander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
